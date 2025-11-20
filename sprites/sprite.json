@@ -1,7 +1,7 @@
 {
   "oneway-red": {
-    "width": 512,
-    "height": 512,
+    "width": 64,
+    "height": 64,
     "x": 0,
     "y": 0,
     "pixelRatio": 1,
